@@ -8,6 +8,9 @@
 
 package main
 
+import "fmt"
+import f "fmt"
+import f2 "fmt"
 // ---------------------------------------------------------
 // EXERCISE: Rename imports
 //
@@ -26,6 +29,9 @@ package main
 // ?
 
 func main() {
+	fmt.Println("hello")
+	f2.Println("hey")
+	f.Println("hi")
 	// ?
 	// ?
 	// ?

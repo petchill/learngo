@@ -35,6 +35,7 @@ func main() {
 	// ADD YOUR CODE BELOW
 
 	// ?
+	n = 3.4 * 2
 
 	fmt.Println(n)
 }
